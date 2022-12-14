@@ -63,6 +63,7 @@ public class Main {
             System.out.println("Number of vowels in the given sentence is " + countVowels);
             System.out.println("Number of consonats in the given sentence is: " + countConsonants);
             System.out.println("Number of Special Characters in the given sentence is: " + countSpecialCharacters);
+            System.out.println("Thanks For Playing");
         }
 
     }
